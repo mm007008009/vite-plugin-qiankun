@@ -101,4 +101,13 @@ npm run example:start
 npm run example:start-vite-dev
 ```
 
+#### qiankun vite接入参考
+ ```
+https://blog.csdn.net/xgangzai/article/details/121005549?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-2-121005549.pc_agg_new_rank&utm_term=qiankun+vite+%E6%8E%A5%E5%85%A5&spm=1000.2123.3001.4430
 
+ ```
+ 
+#### ES module介绍
+ ```
+ https://juejin.cn/post/6896748497714806798
+ ```
